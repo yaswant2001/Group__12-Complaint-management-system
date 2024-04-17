@@ -39,10 +39,10 @@ Before you begin, ensure you have the following installed:
    ```sh
    flutter run
 
-###Usage
+### Usage
 1. Use the application to facilitate the management of complaints within a university setting:
 
 2. Students: Log in to submit and track the status of complaints.
 3. Administrators: Access the admin panel to manage and resolve complaints efficiently.
 
-###Thank You
+### Thank You
