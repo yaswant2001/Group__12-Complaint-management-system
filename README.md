@@ -76,6 +76,13 @@ The University Complaint Management System is a robust software application desi
 
 <img width="1268" alt="Screenshot 2024-04-18 at 9 11 51 PM" src="https://github.com/yaswant2001/Group__12-Complaint-management-system/assets/73974566/c8841152-0fc5-41bc-ab46-eef0825ca279">
 
+5. Users table in the database
+
+<img width="1268" alt="Screenshot 2024-04-18 at 9 30 04 PM" src="https://github.com/yaswant2001/Group__12-Complaint-management-system/assets/73974566/c68d2b41-7313-4dfc-bc48-c521397ed1fd">
+
+6. Complaints table in the database
+   
+<img width="1268" alt="Screenshot 2024-04-18 at 9 29 55 PM" src="https://github.com/yaswant2001/Group__12-Complaint-management-system/assets/73974566/2f84d6cc-8cf2-44ab-8470-dff4b91656d7">
 
 ### Contributors
 - **Yaswanth kuragonda** 11712766
