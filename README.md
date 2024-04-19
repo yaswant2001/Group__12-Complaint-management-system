@@ -1,6 +1,6 @@
 # Group__12-Complaint-management-system
 
-The University Complaint Management System is a robust software application designed to streamline the process of reporting, tracking, and resolving various issues and grievances within a university environment. This system provides a user-friendly interface for students to submit complaints and enables administrators and department heads to manage these complaints efficiently.
+The University Complaint Management System is a feature-rich software application created to simplify the reporting, monitoring, and addressing of different complaints and concerns in a university setting. This system gives students an easy-to-use interface through which to file complaints, and it gives department heads and administrators the ability to handle and promptly handle those complaints.
 
 ## Technology Stack
 
@@ -15,15 +15,14 @@ The University Complaint Management System is a robust software application desi
 
 ## Features
 
-- **Complaint Submission:** Students can log into the system and submit complaints with details such as category, description, and optional photo attachments.
-- **Complaint Tracking:** Students can track the status of their complaints from submission through to resolution.
-- **Admin Dashboard:** Administrators can view all complaints, update statuses, assign complaints to specific departments, and prioritize complaints based on severity.
-- **Department Dashboard:** Department heads can view complaints assigned to their department, respond to complaints, and submit resolutions.
-- **Role-Based Access:** The system supports multiple user roles, including students, administrators, and department heads, each with customized access permissions.
-- **Real-Time Updates:** Students receive real-time updates about the status of their complaints via notifications.
-- **Feedback System:** After a complaint is resolved, students can provide feedback on the resolution process, which can be used for service improvement.
-- **Emergency Handling:** The system can flag and prioritize emergency complaints to ensure they are addressed immediately.
-- **Secure Authentication:** Users must log in to access the system, ensuring that data privacy and security are maintained.
+- Submission of Complaints: Students may use the system and enter complaints along with possible photo attachments and details like the complaint's type and description.
+- Students can monitor the progress of their complaints from the time they are submitted until they are resolved.
+- Administrators get access to the admin dashboard, where they may see all complaints, change their statuses, designate complaints to particular departments, and order them according to severity.
+- Department Dashboard: Department heads are able to see the complaints that have been allocated to them, reply to those concerns, and file resolutions.
+- Role-Based Access: With different access permissions for each role administrators, department heads, and students the system accommodates a multitude of user roles.
+- Emergency Handling: To guarantee that complaints are handled right away, the system has the ability to identify and rank emergencies.
+Secure Authentication: By requiring users to check in before they can access the system, data security and privacy are preserved.
+
 
 ## Installation
 
